@@ -1,0 +1,13 @@
+.cv_set_email{
+    width: 100%;
+    margin: 5px;
+    padding: 5px 20px;
+}
+.cv_set_email .button-cv_set-edit{
+    background: #ffc107;
+    color: #fff;
+}
+.cv_set_email .button-cv_set-delete{
+    background: #bd2130;
+    color: #fff;
+}
